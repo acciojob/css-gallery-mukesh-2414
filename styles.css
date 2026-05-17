@@ -1,7 +1,7 @@
 .cards {
   display: flex;          /* arrange children in a row */
   flex-wrap: wrap;        /* allow wrapping to next line */
-  justify-content: flex-start; /* align items from the start */
+  justify-content: normal; /* align items from the start */
 }
 
 .cards img {
