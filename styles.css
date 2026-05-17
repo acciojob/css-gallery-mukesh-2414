@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
 .cards{
 	display:block;
-	
 	flex-wrap: wrap;
 	justify-content:space-between;
+	display:flex;
 }
 .cards img{
 	
